@@ -1,7 +1,10 @@
+# Java
 *.class
 
+# Vim
 *~
 
+# Package Files #
 *.jar
 *.war
 *.ear
